@@ -1,0 +1,40 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 40px;
+  width: 98%;
+  max-width: 900px;
+
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  /* border-top: 1px solid #333;
+  border-bottom: 1px solid #333; */
+  margin-top: 105px;
+  line-height: 1.1;
+}
+
+h1 span {
+  color: #8d8d8d;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+/* @media (max-width: 800px) {
+  #svg-container {
+    height: 820px;
+  }
+} */

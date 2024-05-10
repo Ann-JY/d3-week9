@@ -1,0 +1,187 @@
+geo,country,year,life_expectancy,income,population,region
+chn,China,2022,78.11,18396,1425887337,asia
+ind,India,2022,71.45,7192,1417173173,asia
+usa,United States,2022,79.12,65340,338289857,americas
+idn,Indonesia,2022,71.93,12278,275501339,asia
+pak,Pakistan,2022,66.3,4810,235824862,asia
+nga,Nigeria,2022,65.45,5013,218541212,africa
+bra,Brazil,2022,76.44,14703,215313498,americas
+bgd,Bangladesh,2022,75.41,5281,171186372,asia
+rus,Russia,2022,73.37,25583,144713314,europe
+mex,Mexico,2022,75.91,18791,127504125,americas
+jpn,Japan,2022,85.17,42109,123951692,asia
+eth,Ethiopia,2022,69.94,2455,123379924,africa
+phl,Philippines,2022,72.22,8701,115559009,asia
+egy,Egypt,2022,71.44,12596,110990103,africa
+cod,"Congo, Dem. Rep.",2022,65.93,1142,99010212,africa
+vnm,Vietnam,2022,74.76,8756,98186856,asia
+irn,Iran,2022,78.34,13108,88550570,asia
+tur,Turkey,2022,79.08,31750,85341241,europe
+deu,Germany,2022,81.66,53887,83369843,europe
+tha,Thailand,2022,78.97,18050,71697030,asia
+gbr,United Kingdom,2022,81.43,47167,67508936,europe
+tza,Tanzania,2022,68.13,2808,65497748,africa
+fra,France,2022,83.26,46251,64626628,europe
+zaf,South Africa,2022,65.86,13206,59893885,africa
+ita,Italy,2022,83.53,42825,59037474,europe
+mmr,Myanmar,2022,70.09,3999,54179306,asia
+ken,Kenya,2022,67.26,4700,54027487,africa
+col,Colombia,2022,80.72,15179,51874024,americas
+kor,South Korea,2022,83.35,45341,51815810,asia
+esp,Spain,2022,83.46,39682,47558630,europe
+uga,Uganda,2022,67.21,2159,47249585,africa
+sdn,Sudan,2022,71.21,3754,46874204,africa
+arg,Argentina,2022,77.01,22117,45510318,americas
+dza,Algeria,2022,76.74,11244,44903225,africa
+irq,Iraq,2022,73.7,9903,44496122,asia
+afg,Afghanistan,2022,64.3,1992,41128771,asia
+pol,Poland,2022,78.58,35597,39857145,europe
+ukr,Ukraine,2022,74.23,13374,39701739,europe
+can,Canada,2022,82.62,49127,38454327,americas
+mar,Morocco,2022,73.97,7437,37457971,africa
+sau,Saudi Arabia,2022,74.98,47315,36408820,asia
+ago,Angola,2022,66.11,5977,35588987,africa
+uzb,Uzbekistan,2022,68.74,7840,34627652,asia
+per,Peru,2022,80.9,12949,34049588,americas
+mys,Malaysia,2022,75.47,28685,33938221,asia
+yem,Yemen,2022,67.99,2234,33696614,asia
+gha,Ghana,2022,67.11,5737,33475870,africa
+moz,Mozambique,2022,59.6,1232,32969518,africa
+npl,Nepal,2022,71.91,3921,30547580,asia
+mdg,Madagascar,2022,66.48,1555,29611714,africa
+ven,Venezuela,2022,75.28,5201,28301696,americas
+civ,Cote d'Ivoire,2022,65.23,5553,28160542,africa
+cmr,Cameroon,2022,64.34,3766,27914536,africa
+ner,Niger,2022,63.58,1229,26207977,africa
+aus,Australia,2022,83.32,51875,26177413,asia
+prk,North Korea,2022,73.7,1624,26069416,asia
+twn,Taiwan,2022,80.81,61354,23893394,asia
+bfa,Burkina Faso,2022,62.88,2278,22673762,africa
+mli,Mali,2022,62.96,2206,22593590,africa
+syr,Syria,2022,76.65,4094,22125249,asia
+lka,Sri Lanka,2022,77.8,13179,21832143,asia
+mwi,Malawi,2022,65.95,1495,20405317,africa
+zmb,Zambia,2022,63.98,3318,20017675,africa
+rou,Romania,2022,75.91,31258,19659267,europe
+chl,Chile,2022,80.63,25507,19603733,americas
+kaz,Kazakhstan,2022,72.35,26292,19397998,asia
+ecu,Ecuador,2022,76.98,10781,18001000,americas
+gtm,Guatemala,2022,73.22,9007,17843908,americas
+tcd,Chad,2022,61.28,1446,17723315,africa
+som,Somalia,2022,59.38,1143,17597511,africa
+nld,Netherlands,2022,82.17,58246,17564014,europe
+sen,Senegal,2022,69.28,3498,17316449,africa
+khm,Cambodia,2022,70.55,4452,16767842,asia
+zwe,Zimbabwe,2022,61.72,3564,16320537,africa
+gin,Guinea,2022,62.19,2769,13859341,africa
+rwa,Rwanda,2022,69.52,2361,13776698,africa
+ben,Benin,2022,65.45,3547,13352864,africa
+bdi,Burundi,2022,64.86,733,12889576,africa
+tun,Tunisia,2022,78.29,10599,12356117,africa
+bol,Bolivia,2022,72.76,8410,12224110,americas
+bel,Belgium,2022,81.87,52409,11655930,europe
+hti,Haiti,2022,64.66,2808,11584996,americas
+jor,Jordan,2022,78.66,10159,11285869,asia
+dom,Dominican Republic,2022,73.68,19812,11228821,americas
+cub,Cuba,2022,78.98,10504,11212191,americas
+ssd,South Sudan,2022,64.58,1885,10913164,africa
+swe,Sweden,2022,83.28,53340,10549347,europe
+cze,Czech Republic,2022,79.88,40468,10493986,europe
+hnd,Honduras,2022,72.57,5788,10432860,americas
+grc,Greece,2022,81.42,30551,10384971,europe
+aze,Azerbaijan,2022,71.3,14632,10358074,europe
+prt,Portugal,2022,82.24,34906,10270865,europe
+png,Papua New Guinea,2022,65.3,4151,10142619,asia
+hun,Hungary,2022,77.02,34644,9967308,europe
+tjk,Tajikistan,2022,70.14,3953,9952787,asia
+blr,Belarus,2022,74.42,18586,9534954,europe
+are,United Arab Emirates,2022,74.31,65196,9441129,asia
+isr,Israel,2022,83.45,42911,9038309,asia
+aut,Austria,2022,82.59,54997,8939617,europe
+tgo,Togo,2022,66.01,2227,8848699,africa
+che,Switzerland,2022,84.39,71717,8740472,europe
+sle,Sierra Leone,2022,63,1677,8605718,africa
+lao,Lao,2022,69.84,7926,7529475,asia
+hkg,"Hong Kong, China",2022,84.84,60438,7488865,asia
+srb,Serbia,2022,76.09,20515,7221365,europe
+nic,Nicaragua,2022,76.03,6040,6948392,americas
+lby,Libya,2022,76.41,17022,6812341,africa
+bgr,Bulgaria,2022,73.72,24328,6781953,europe
+pry,Paraguay,2022,76.92,12549,6780744,americas
+kgz,Kyrgyz Republic,2022,73.87,4728,6630623,asia
+tkm,Turkmenistan,2022,71.2,15294,6430770,asia
+slv,El Salvador,2022,76.37,9043,6336392,americas
+sgp,Singapore,2022,85.26,112846,5975689,asia
+cog,"Congo, Rep.",2022,66.06,3336,5970424,africa
+dnk,Denmark,2022,81.55,59076,5882261,europe
+svk,Slovak Republic,2022,77.98,32181,5643453,europe
+caf,Central African Republic,2022,53.35,944,5579144,africa
+fin,Finland,2022,82.36,49643,5540745,europe
+lbn,Lebanon,2022,76.91,10097,5489739,asia
+nor,Norway,2022,83.36,67931,5434319,europe
+lbr,Liberia,2022,66.98,1442,5302681,africa
+pse,Palestine,2022,75.29,5680,5250072,asia
+nzl,New Zealand,2022,82.22,44021,5185288,asia
+cri,Costa Rica,2022,80.63,21665,5180829,americas
+irl,Ireland,2022,82.48,106601,5023109,europe
+mrt,Mauritania,2022,71.4,5313,4736139,africa
+omn,Oman,2022,74.56,32148,4576298,asia
+pan,Panama,2022,80.56,30706,4408581,americas
+kwt,Kuwait,2022,81.8,49421,4268873,asia
+hrv,Croatia,2022,79.12,31029,4030358,europe
+geo,Georgia,2022,73.83,15940,3744385,europe
+eri,Eritrea,2022,64.78,1630,3684032,africa
+ury,Uruguay,2022,77.96,23211,3422794,americas
+mng,Mongolia,2022,68.64,11689,3398366,asia
+mda,Moldova,2022,74.69,14408,3272996,europe
+bih,Bosnia and Herzegovina,2022,77.4,15724,3233526,europe
+alb,Albania,2022,78.84,14667,2842321,europe
+jam,Jamaica,2022,76.6,9373,2827377,americas
+arm,Armenia,2022,76.14,13564,2780469,europe
+ltu,Lithuania,2022,76.69,39734,2750055,europe
+gmb,Gambia,2022,67.83,2266,2705992,africa
+qat,Qatar,2022,76.69,95483,2695122,asia
+bwa,Botswana,2022,62.6,16463,2630296,africa
+nam,Namibia,2022,66.27,8821,2567012,africa
+gab,Gabon,2022,68.38,14639,2388992,africa
+lso,Lesotho,2022,52.99,2479,2305825,africa
+svn,Slovenia,2022,81.86,41236,2119844,europe
+gnb,Guinea-Bissau,2022,61.91,1984,2105566,africa
+mkd,"Macedonia, FYR",2022,74.75,16957,2093599,europe
+lva,Latvia,2022,76.25,32061,1850651,europe
+gnq,Equatorial Guinea,2022,67.04,16354,1674908,africa
+tto,Trinidad and Tobago,2022,75.24,24642,1531044,americas
+bhr,Bahrain,2022,77.41,44467,1472233,asia
+tls,Timor-Leste,2022,71.23,2860,1341296,asia
+est,Estonia,2022,78.46,38261,1326062,europe
+mus,Mauritius,2022,75.92,21467,1299469,africa
+cyp,Cyprus,2022,81.26,41189,1251488,europe
+swz,Swaziland,2022,59.28,8660,1201670,africa
+dji,Djibouti,2022,67.65,5737,1120849,africa
+fji,Fiji,2022,68.77,11710,929766,asia
+com,Comoros,2022,69.38,2951,836774,africa
+guy,Guyana,2022,67.62,14703,808726,americas
+btn,Bhutan,2022,74.06,11305,782455,asia
+slb,Solomon Islands,2022,59.49,2286,724273,asia
+lux,Luxembourg,2022,83.39,118774,647599,europe
+mne,Montenegro,2022,76.28,21283,627082,europe
+sur,Suriname,2022,73.09,15242,618040,americas
+cpv,Cape Verde,2022,74.28,6633,593149,africa
+mlt,Malta,2022,83.03,43731,533286,europe
+mdv,Maldives,2022,79.91,17471,523787,asia
+brn,Brunei,2022,74.76,65548,449002,asia
+bhs,Bahamas,2022,73.7,33721,409984,americas
+blz,Belize,2022,74.87,6495,405272,americas
+isl,Iceland,2022,84.53,54350,372899,europe
+vut,Vanuatu,2022,65.86,2755,326740,asia
+brb,Barbados,2022,76.56,15098,281635,americas
+stp,Sao Tome and Principe,2022,71.5,4006,227380,africa
+wsm,Samoa,2022,70.85,5821,222382,asia
+lca,St. Lucia,2022,75.55,13910,179857,americas
+kir,Kiribati,2022,61.37,2270,131232,asia
+grd,Grenada,2022,73.46,15668,125438,americas
+fsm,"Micronesia, Fed. Sts.",2022,64.45,3257,114164,asia
+syc,Seychelles,2022,73.84,28052,107118,africa
+ton,Tonga,2022,73.33,6293,106858,asia
+vct,St. Vincent and the Grenadines,2022,73.33,12322,103948,americas
+atg,Antigua and Barbuda,2022,76.67,18621,93763,americas
